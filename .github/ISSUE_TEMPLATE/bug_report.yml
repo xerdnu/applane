@@ -1,0 +1,35 @@
+name: 🐛 Bug report
+description: Something in Applane isn't working right
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for the report! **Don't paste credentials** (service-account JSON, `.p8` keys, Issuer/Key IDs) or screenshots showing account data — email **support@netblast.se** for anything account-specific.
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What did you do, and what went wrong?
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect to happen?
+    validations:
+      required: false
+  - type: input
+    id: where
+    attributes:
+      label: Where in the app?
+      placeholder: e.g. Connect → Google Play, Review & publish, Screenshot Studio
+    validations:
+      required: false
+  - type: input
+    id: env
+    attributes:
+      label: Browser / device
+      placeholder: e.g. Chrome on Windows, Safari on iPhone
+    validations:
+      required: false
