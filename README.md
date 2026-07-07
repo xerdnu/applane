@@ -20,6 +20,6 @@ For anything tied to your account, use the private channels below.
 ## 📧 Private support
 
 - **Account, billing, or connection problems** → **support@netblast.se**
-- **Security vulnerability** → **security@netblast.se** (or GitHub's [private reporting](../../security/advisories/new)) — please **don't**open a public issue for security.
+- **Security vulnerability** → **security@netblast.se** (or GitHub's [private reporting](../../security/advisories/new)) — please **don't** open a public issue for security.
 
 We usually reply within a day.
