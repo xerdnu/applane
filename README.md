@@ -6,7 +6,7 @@ The place to **request features, ask questions, and report bugs** for
 ## Where to go
 
 - 💡 **Idea or feature request** → [Discussions → Ideas](../../discussions/categories/ideas) — and upvote the ones you want.
-- ❓ **Question / "how do I…"** → [Discussions → Q&A](../../discussions/categories/q-a)
+- ❓ **Questions and help** → [Discussions → Q&A](../../discussions/categories/q-a)
 - 🐛 **A bug** → [Open an issue](../../issues/new/choose)
 
 ## ⚠️ Please don't post private info here — this repo is public
